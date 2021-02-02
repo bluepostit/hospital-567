@@ -1,0 +1,5 @@
+id,name,blood_type,cured,room_id
+1,sally,A,false,1
+2,billy,O,false,1
+3,molly,O,false,2
+4,molly,O,,
